@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>smart_tap_home</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="welcome-to--smart--tap-bot">Welcome to  SMART- TAP-BOT</h1>
+      <center><img src="/static/logo2.png" alt="logo1" width="200" height="100"></center>
+<blockquote>
+<p><strong>NOTE:</strong>  This Page gives overall API descriptions</p>
+</blockquote>
+<h1 id="commands">commands</h1>
+<h2 id="tap-"><strong>tap :</strong></h2>
+<blockquote>
+<p><strong>IP:PORT/tap?Point="XY coordinate"</strong><br>
+example: 192.168.0.115:5000/tap?Point="“X100 Y150”</p>
+</blockquote>
+<h4 id="response">response:</h4>
+<pre class=" language-json"><code class="prism  language-json">
+   <span class="token string">"tap to point X100 Y150 recieved"</span>
+
+</code></pre>
+<h2 id="swipe-"><strong>swipe :</strong></h2>
+<blockquote>
+<p><strong>IP:PORT/swipe?startPoint=“XY coordinate”&amp;endpoint="XY coordinate"</strong><br>
+example: 192.168.0.115:5000/swipe?startPoint="“X100 Y150”&amp;endPoint=“X60 Y80”</p>
+</blockquote>
+<h4 id="response-1">response:</h4>
+<pre class=" language-json"><code class="prism  language-json">
+   <span class="token string">"swipe from X100 Y150 to X60 Y80 done"</span>
+
+</code></pre>
+<h2 id="one-point-move-"><strong>one point move :</strong></h2>
+<p><em>moves to a point specified</em></p>
+<blockquote>
+<p><strong>IP:PORT/opMove?Point="XY coordinate"</strong><br>
+example: 192.168.0.115:5000/opMove?Point="“X100 Y150”</p>
+</blockquote>
+<h4 id="response-2">response:</h4>
+<pre class=" language-json"><code class="prism  language-json">
+   <span class="token string">"move to single point X100 Y150 recieved"</span>
+
+</code></pre>
+<h2 id="two-point-move-"><strong>two point move :</strong></h2>
+<p><em>moves between two points</em></p>
+<blockquote>
+<p><strong>IP:PORT/tpMove?Point1=“XY coordinate”&amp;Point2="XY coordinate"</strong><br>
+example: 192.168.0.115:5010/tpMove?Point1="“X100 Y150”&amp;Point2=“X100 Y20”</p>
+</blockquote>
+<h4 id="response-3">response:</h4>
+<pre class=" language-json"><code class="prism  language-json">
+   <span class="token string">"move between two point "</span>X100 Y150<span class="token string">" "</span>X100 Y20<span class="token string">"  recieved"</span>
+
+</code></pre>
+<h2 id="home-"><strong>home :</strong></h2>
+<p><em>command to manually home the axis</em></p>
+<blockquote>
+<p><strong>IP:PORT/home</strong><br>
+example: 192.168.0.115:5010/home</p>
+</blockquote>
+<h4 id="response-4">response:</h4>
+<pre class=" language-json"><code class="prism  language-json">
+ <span class="token string">"homing done"</span>
+
+</code></pre>
+<h2 id="setangle-"><strong>setAngle :</strong></h2>
+<p><em>calibrate the linear servo angle</em></p>
+<blockquote>
+<p><strong>IP:PORT/setAngle?initial=value1&amp;final=value2</strong><br>
+example: 192.168.0.115:5010/setAngle?initial=80&amp;final=50</p>
+</blockquote>
+<h4 id="response-5">response:</h4>
+<pre class=" language-json"><code class="prism  language-json"> <span class="token string">"setting angle initial =80 final =50 done"</span>
+
+</code></pre>
+<h2 id="testtap-"><strong>testTap :</strong></h2>
+<p><em>tap at the current position</em></p>
+<blockquote>
+<p><strong>IP:PORT/testTap</strong><br>
+example: 192.168.0.115:5010/testTap</p>
+</blockquote>
+<h4 id="response-6">response:</h4>
+<pre class=" language-json"><code class="prism  language-json">  <span class="token string">"test tap done initial=100 final=150"</span>
+</code></pre>
+<h2 id="change-speed-"><strong>change speed :</strong></h2>
+<p><em>change the speed of X Y axis movement</em></p>
+<blockquote>
+<p><strong>IP:PORT/setSpeed?speed=value</strong><br>
+example: 192.168.0.115:5010/setSpeed?speed=500</p>
+</blockquote>
+<h4 id="response-7">response:</h4>
+<pre class=" language-json"><code class="prism  language-json">  <span class="token string">"speed set 500"</span>
+
+</code></pre>
+<h2 id="get-current-position-"><strong>Get current Position :</strong></h2>
+<p><em>gets the current position of tap head</em></p>
+<blockquote>
+<p><strong>IP:PORT/currentpos</strong><br>
+example: 192.168.0.110:5000/currentpos</p>
+</blockquote>
+<h4 id="response-8">response:</h4>
+<pre class=" language-json"><code class="prism  language-json">   <span class="token string">"current position X:100 Y:100"</span>
+
+</code></pre>
+<h2 id="set-home-position-"><strong>Set Home Position :</strong></h2>
+<p><em>set the current position as (0,0) use negative coordinate if necessary</em></p>
+<blockquote>
+<p><strong>IP:PORT/setpositionhome</strong><br>
+example: 192.168.0.110:5000/setpositionhome</p>
+</blockquote>
+<h4 id="response-9">response:</h4>
+<pre class=" language-json"><code class="prism  language-json">   <span class="token string">"set position 0,0 done"</span>
+
+</code></pre>
+<h2 id="disableenable-motors-"><strong>Disable/Enable motors :</strong></h2>
+<p><em>disable/enable motors if required</em></p>
+<blockquote>
+<p><strong>IP:PORT/motorSatus</strong><br>
+example: 192.168.0.110:5000/motorstatus</p>
+</blockquote>
+<h4 id="response-10">response:</h4>
+<pre class=" language-json"><code class="prism  language-json">
+   <span class="token string">"motor disable= True"</span>
+
+</code></pre>
+</div>
+</body>
+
+</html>

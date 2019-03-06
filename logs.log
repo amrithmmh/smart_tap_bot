@@ -1,0 +1,219 @@
+2019-03-05 12:27:25,372 - SMART_TAP_BOT - DEBUG - test tap initial=0 final=180
+2019-03-05 15:23:47,194 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API =None
+2019-03-05 15:24:02,988 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API =None
+2019-03-05 16:00:34,091 - SMART_TAP_BOT - DEBUG - set Angle initial=120 final=110 through rest api
+2019-03-05 16:01:07,996 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=110
+2019-03-05 16:01:19,875 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=110
+2019-03-05 16:01:40,939 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=110
+2019-03-05 16:02:17,465 - SMART_TAP_BOT - DEBUG - set Angle initial=130 final=110 through rest api
+2019-03-05 16:02:27,597 - SMART_TAP_BOT - DEBUG - test tap initial=130 final=110
+2019-03-05 16:03:28,800 - SMART_TAP_BOT - DEBUG - test tap initial=130 final=110
+2019-03-05 16:03:35,636 - SMART_TAP_BOT - DEBUG - test tap initial=130 final=110
+2019-03-05 16:03:44,123 - SMART_TAP_BOT - DEBUG - test tap initial=130 final=110
+2019-03-05 16:03:48,740 - SMART_TAP_BOT - DEBUG - test tap initial=130 final=110
+2019-03-05 16:03:56,793 - SMART_TAP_BOT - DEBUG - test tap initial=130 final=110
+2019-03-05 16:04:33,596 - SMART_TAP_BOT - DEBUG - set Angle initial=140 final=90 through rest api
+2019-03-05 16:04:44,824 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=90
+2019-03-05 16:04:48,322 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=90
+2019-03-05 16:04:57,037 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=90
+2019-03-05 16:05:53,063 - SMART_TAP_BOT - DEBUG - set Angle initial=140 final=70 through rest api
+2019-03-05 16:06:03,036 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=70
+2019-03-05 16:06:06,597 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=70
+2019-03-05 16:06:09,726 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=70
+2019-03-05 16:06:31,944 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=70
+2019-03-05 16:06:36,707 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=70
+2019-03-05 16:06:40,388 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=70
+2019-03-05 16:08:25,424 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X10 Y10"
+2019-03-05 16:10:12,870 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X10 Y10"
+2019-03-05 16:10:18,865 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X10 Y10"
+2019-03-05 16:10:49,567 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X10 Y10"
+2019-03-05 16:11:06,046 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X0 Y0"
+2019-03-05 16:13:43,806 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X20 Y20"
+2019-03-05 16:13:54,410 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X30 Y30"
+2019-03-05 16:14:08,355 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X50 Y50"
+2019-03-05 16:14:33,748 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X80 Y80"
+2019-03-05 16:15:00,070 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y100"
+2019-03-05 16:15:15,048 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X120 Y120"
+2019-03-05 16:15:31,608 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X0 Y0"
+2019-03-05 16:17:53,415 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X10 Y10"
+2019-03-05 16:18:25,734 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X120 Y120"
+2019-03-05 16:19:34,875 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X120 Y0"
+2019-03-05 16:21:55,000 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="“X0 Y0”
+2019-03-05 16:23:27,568 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X10 Y10"
+2019-03-05 16:23:51,496 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X0 Y0"
+2019-03-05 16:25:14,032 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X0 Y0"
+2019-03-05 16:26:47,627 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X85 Y85"
+2019-03-05 16:30:05,264 - SMART_TAP_BOT - DEBUG - test tap initial=0 final=180
+2019-03-05 16:30:16,435 - SMART_TAP_BOT - DEBUG - test tap initial=0 final=180
+2019-03-05 16:32:06,751 - SMART_TAP_BOT - DEBUG - set Angle initial=150 final=50 through rest api
+2019-03-05 16:32:19,716 - SMART_TAP_BOT - DEBUG - test tap initial=150 final=50
+2019-03-05 16:38:47,854 - SMART_TAP_BOT - DEBUG - test tap initial=150 final=50
+2019-03-05 16:39:27,984 - SMART_TAP_BOT - DEBUG - set Angle initial=150 final=50 through rest api
+2019-03-05 16:39:39,835 - SMART_TAP_BOT - DEBUG - test tap initial=150 final=50
+2019-03-05 16:42:31,364 - SMART_TAP_BOT - DEBUG - test tap initial=150 final=50
+2019-03-05 16:44:41,008 - SMART_TAP_BOT - DEBUG - test tap initial=0 final=180
+2019-03-05 16:45:08,754 - SMART_TAP_BOT - DEBUG - test tap initial=0 final=180
+2019-03-05 16:45:13,154 - SMART_TAP_BOT - DEBUG - test tap initial=0 final=180
+2019-03-05 16:45:26,890 - SMART_TAP_BOT - DEBUG - test tap initial=0 final=180
+2019-03-05 16:45:58,873 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X10 Y10"
+2019-03-05 16:46:18,868 - SMART_TAP_BOT - DEBUG - test tap initial=0 final=180
+2019-03-05 18:05:33,195 - SMART_TAP_BOT - DEBUG - test tap initial=100 final=80
+2019-03-05 18:07:12,112 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=80
+2019-03-05 18:07:18,033 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=80
+2019-03-05 18:07:22,876 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=80
+2019-03-05 18:07:27,434 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=80
+2019-03-05 18:07:31,639 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=80
+2019-03-05 18:07:37,005 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=80
+2019-03-05 18:07:49,577 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=80
+2019-03-05 18:08:19,056 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=80
+2019-03-05 18:08:26,507 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=80
+2019-03-05 18:09:23,459 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=120
+2019-03-05 18:09:50,829 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=100
+2019-03-05 18:09:57,211 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=100
+2019-03-05 18:10:01,181 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=100
+2019-03-05 18:10:05,031 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=100
+2019-03-05 18:11:44,065 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=130
+2019-03-05 18:12:05,361 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=130
+2019-03-05 18:12:25,110 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=130
+2019-03-05 18:12:42,928 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=130
+2019-03-05 18:12:50,373 - SMART_TAP_BOT - DEBUG - test tap initial=140 final=130
+2019-03-05 18:28:17,831 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=105
+2019-03-05 18:29:09,481 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=105
+2019-03-05 18:29:13,826 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=105
+2019-03-05 18:29:16,952 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=105
+2019-03-05 18:29:23,009 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=105
+2019-03-05 18:30:28,441 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=108
+2019-03-05 18:30:39,415 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=108
+2019-03-05 18:32:16,770 - SMART_TAP_BOT - DEBUG - test tap initial=120 final=108
+2019-03-06 09:43:02,420 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=86
+2019-03-06 09:44:09,888 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=86
+2019-03-06 09:44:43,180 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=86
+2019-03-06 09:46:02,323 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API =None
+2019-03-06 09:46:20,751 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API =None
+2019-03-06 10:05:39,574 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API =None
+2019-03-06 10:07:12,115 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API =None
+2019-03-06 10:07:23,401 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API =None
+2019-03-06 10:08:52,883 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X50 Y20"
+2019-03-06 10:09:40,039 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X20 Y20"
+2019-03-06 10:14:34,154 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X50 Y50"
+2019-03-06 10:41:19,893 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 10:41:40,613 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X50 Y50"
+2019-03-06 10:41:40,615 - SMART_TAP_BOT - DEBUG - G0 "X50 Y50" F<class '__main__.speed'>
+2019-03-06 10:41:49,698 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 10:51:11,549 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 10:52:47,478 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 10:52:49,956 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 10:53:56,088 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 10:53:58,123 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:09:39,663 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:10:05,937 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:11:39,754 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:12:21,548 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:12:45,053 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:13:05,264 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:13:46,444 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:15:16,150 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:17:33,243 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:22:39,864 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:24:14,780 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:24:50,371 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:26:05,844 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:38:40,245 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:39:03,838 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 11:39:27,027 - SMART_TAP_BOT - DEBUG - set cureent position:
+2019-03-06 11:39:42,298 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 12:00:42,598 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X50 Y0"
+2019-03-06 12:00:42,667 - SMART_TAP_BOT - DEBUG - G0 "X50 Y0" F<class '__main__.speed'>
+2019-03-06 12:02:15,289 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 12:39:15,821 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y100"
+2019-03-06 12:39:15,823 - SMART_TAP_BOT - DEBUG - G0 "X100 Y100" F<class '__main__.speed'>
+2019-03-06 12:42:26,221 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y100"
+2019-03-06 12:42:26,233 - SMART_TAP_BOT - DEBUG - G0 "X100 Y100" F<class '__main__.speed'>
+2019-03-06 12:45:01,934 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y100"
+2019-03-06 12:45:01,935 - SMART_TAP_BOT - DEBUG - G0 "X100 Y100" F<class '__main__.speed'>
+2019-03-06 12:49:14,938 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y100"
+2019-03-06 12:49:14,940 - SMART_TAP_BOT - DEBUG - G0 "X100 Y100" F10000
+2019-03-06 12:50:59,099 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y100"  endpoint= "X150 Y100"
+2019-03-06 12:51:43,209 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X60 Y100"
+2019-03-06 12:53:15,844 - SMART_TAP_BOT - DEBUG - Points from  Rest API ="X60 Y100" "X100 Y40"
+2019-03-06 12:53:43,252 - SMART_TAP_BOT - DEBUG - homing gcode rest API
+2019-03-06 12:54:06,258 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y100"
+2019-03-06 12:54:06,259 - SMART_TAP_BOT - DEBUG - G0 "X100 Y100" F10000
+2019-03-06 12:54:25,921 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 12:54:53,448 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y100"
+2019-03-06 12:54:53,456 - SMART_TAP_BOT - DEBUG - G0 "X100 Y100" F10000
+2019-03-06 12:55:13,467 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 12:57:39,963 - SMART_TAP_BOT - DEBUG - set cureent position:
+2019-03-06 12:57:52,965 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 12:57:54,699 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 12:57:58,775 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 12:58:02,989 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 12:58:06,837 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 12:59:00,902 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X-10 Y-10"
+2019-03-06 12:59:00,903 - SMART_TAP_BOT - DEBUG - G0 "X-10 Y-10" F10000
+2019-03-06 14:38:42,575 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 14:39:01,217 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 14:40:21,050 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:20:14,020 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:20:58,235 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:21:20,474 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X-10 Y-10"
+2019-03-06 15:21:20,483 - SMART_TAP_BOT - DEBUG - G0 "X-10 Y-10" F10000
+2019-03-06 15:22:42,320 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:23:27,757 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:24:07,573 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X-10 Y-10"
+2019-03-06 15:24:07,573 - SMART_TAP_BOT - DEBUG - G0 "X-10 Y-10" F10000
+2019-03-06 15:24:35,976 - SMART_TAP_BOT - DEBUG - homing gcode rest API
+2019-03-06 15:24:55,557 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:25:41,029 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=86
+2019-03-06 15:25:45,581 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=86
+2019-03-06 15:25:48,621 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=86
+2019-03-06 15:25:54,338 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=86
+2019-03-06 15:27:23,130 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:27:33,411 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:27:46,454 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=60
+2019-03-06 15:27:49,733 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=60
+2019-03-06 15:27:53,738 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=60
+2019-03-06 15:28:29,878 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:28:42,098 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=50
+2019-03-06 15:28:46,648 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=50
+2019-03-06 15:28:51,189 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=50
+2019-03-06 15:28:56,751 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=50
+2019-03-06 15:29:01,714 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=50
+2019-03-06 15:29:13,163 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=50
+2019-03-06 15:29:19,115 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=50
+2019-03-06 15:29:23,725 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=50
+2019-03-06 15:29:50,633 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:30:01,922 - SMART_TAP_BOT - DEBUG - disable X Y mottors
+2019-03-06 15:30:06,405 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=40
+2019-03-06 15:30:13,331 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=40
+2019-03-06 15:30:18,124 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=40
+2019-03-06 15:30:25,772 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=40
+2019-03-06 15:31:43,620 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=40
+2019-03-06 15:31:48,527 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=40
+2019-03-06 15:31:54,741 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=40
+2019-03-06 15:32:13,714 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=40
+2019-03-06 15:32:18,177 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=40
+2019-03-06 15:34:06,696 - SMART_TAP_BOT - DEBUG - get cureent position:
+2019-03-06 15:34:38,586 - SMART_TAP_BOT - DEBUG - set cureent position:
+2019-03-06 15:35:25,216 - SMART_TAP_BOT - DEBUG - startpoint= "X0 Y0"  endpoint= "X10 Y0"
+2019-03-06 15:35:42,839 - SMART_TAP_BOT - DEBUG - startpoint= "X0 Y0"  endpoint= "X10 Y0"
+2019-03-06 15:35:45,796 - SMART_TAP_BOT - DEBUG - startpoint= "X0 Y0"  endpoint= "X10 Y0"
+2019-03-06 15:35:58,189 - SMART_TAP_BOT - DEBUG - startpoint= "X0 Y0"  endpoint= "X10 Y0"
+2019-03-06 15:36:19,939 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X10 Y0"
+2019-03-06 15:36:36,495 - SMART_TAP_BOT - DEBUG - homing gcode rest API
+2019-03-06 15:37:01,185 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y100"
+2019-03-06 15:38:05,361 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y50"
+2019-03-06 15:38:36,452 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y150"
+2019-03-06 15:38:43,282 - SMART_TAP_BOT - DEBUG - Point from Tap Rest API ="X100 Y150"
+2019-03-06 15:39:41,507 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X110 Y150"
+2019-03-06 15:39:50,687 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X110 Y150"
+2019-03-06 15:40:12,186 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X130 Y150"
+2019-03-06 15:40:16,532 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X130 Y150"
+2019-03-06 15:40:19,749 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X130 Y150"
+2019-03-06 15:40:45,460 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X140 Y150"
+2019-03-06 15:40:48,735 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X140 Y150"
+2019-03-06 15:40:51,485 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X140 Y150"
+2019-03-06 15:40:55,731 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X140 Y150"
+2019-03-06 15:46:15,583 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X140 Y150"
+2019-03-06 15:46:20,060 - SMART_TAP_BOT - DEBUG - startpoint= "X100 Y150"  endpoint= "X140 Y150"
+2019-03-06 15:46:36,378 - SMART_TAP_BOT - DEBUG - test tap initial=108 final=40
